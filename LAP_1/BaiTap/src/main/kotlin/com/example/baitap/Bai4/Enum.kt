@@ -1,4 +1,4 @@
-package com.example.mobilelab.Lab1.Bai4
+package com.example.baitap.Bai4
 
 fun main() {
     println("KIEM TRA HUONG GIO")

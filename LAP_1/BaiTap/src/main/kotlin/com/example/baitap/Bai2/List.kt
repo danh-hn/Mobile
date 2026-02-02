@@ -1,5 +1,4 @@
-package com.example.mobilelab.Lab1.Bai2
-
+package com.example.baitap.Bai2.
 fun main() {
     val numbers = listOf(1, 2, 3, 4, 5, 6)
     println("Danh sach so co dinh: ${numbers}")

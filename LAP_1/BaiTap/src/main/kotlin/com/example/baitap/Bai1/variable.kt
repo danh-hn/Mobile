@@ -1,5 +1,4 @@
-package com.example.mobilelab.Lab1.Bai1
-
+package com.example.baitap.Bai1
 fun main(){
     // Assign once, cannot change.
     val age = "19"

@@ -1,5 +1,4 @@
-package com.example.mobilelab.Lab1.Bai3
-
+package com.example.baitap.Bai3
 fun main(){
     println("LAMBDA VA TOAN TU ELVIS")
 

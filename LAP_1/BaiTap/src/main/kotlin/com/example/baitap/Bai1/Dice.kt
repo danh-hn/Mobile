@@ -1,5 +1,4 @@
-package com.example.mobilelab.Lab1.Bai1
-
+package com.example.baitap.Bai1
 class Dice {
     var sides = 6
 

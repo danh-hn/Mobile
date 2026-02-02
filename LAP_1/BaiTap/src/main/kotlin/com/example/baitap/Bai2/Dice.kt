@@ -1,5 +1,4 @@
-package com.example.mobilelab.Lab1.Bai2
-
+package com.example.baitap.Bai2
 class Dice(val numSides: Int) {
     fun roll() : Int {
         val randomNumber = (1..numSides).random()

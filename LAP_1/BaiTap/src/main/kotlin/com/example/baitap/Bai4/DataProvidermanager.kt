@@ -1,4 +1,4 @@
-package com.example.mobilelab.Lab1.Bai4
+package com.example.baitap.Bai4
 
 import kotlinx.coroutines.delay
 object DataProviderManager {

@@ -1,5 +1,4 @@
-package com.example.mobilelab.Lab1.Bai2
-
+package com.example.baitap.Bai2.
 class SquareCabin : Dwelling() {
     override val buildingMaterial = "Wood"
 
