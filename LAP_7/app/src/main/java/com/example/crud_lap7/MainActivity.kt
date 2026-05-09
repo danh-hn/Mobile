@@ -217,6 +217,6 @@ class MainActivity : ComponentActivity() {
     }
 }
 
-enum class CourseDetailsActivity(context: Context, java: Any) {
+enum class CourseDetailsActivity(context: android.content.Context, java: Any) {
 
 }
